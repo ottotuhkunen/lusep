@@ -1,0 +1,35 @@
+body {
+    user-select: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #260012;
+    background-image: url(hold.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.box {
+    background-color: #43c6e7;
+    color: #011328;
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+    opacity: 96%;
+    cursor: pointer;
+}
