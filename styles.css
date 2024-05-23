@@ -39,3 +39,9 @@ body {
     width: 320px;
     top: 14px;
 }
+
+.warning {
+    color: #b63f3f;
+    position: absolute;
+    bottom: 4px;
+}
