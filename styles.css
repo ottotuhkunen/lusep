@@ -13,6 +13,7 @@ body {
     background-size: contain;
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
+    overflow: hidden;
 }
 
 .container {
@@ -29,19 +30,31 @@ body {
     text-align: center;
     flex: 1;
     margin: 0 10px;
-    opacity: 96%;
     cursor: pointer;
     text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
+.box:hover {
+    transform: scale(1.1);
 }
 
 .logo {
     position: absolute;
-    width: 320px;
-    top: 14px;
+    width: 100%;
+    max-width: 400px;
+    top: 16px;
 }
 
 .warning {
     color: #b63f3f;
     position: absolute;
-    bottom: 4px;
+    bottom: 2px;
+    font-size: 14pt;
+    text-align: center;
+}
+
+.material-symbols-outlined {
+    font-size: 50pt !important;
+    margin-top: 6px !important;
 }
