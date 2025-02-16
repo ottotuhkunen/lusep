@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c41c218b.css",
-    "main.js": "/static/js/main.691dd4e5.js",
-    "static/media/logo.png": "/static/media/logo.62d9177064eae89cb4a0.png",
+    "main.css": "/static/css/main.5fadc5cf.css",
+    "main.js": "/static/js/main.3a3a9ae8.js",
     "static/media/Finlandica-ExtraLight.otf": "/static/media/Finlandica-ExtraLight.c5a9336db7768b6c651c.otf",
     "static/media/Finlandica-Regular.otf": "/static/media/Finlandica-Regular.396122aa9ea0e4b96a4b.otf",
     "static/media/Finlandica-Light.otf": "/static/media/Finlandica-Light.281c16d054702094c8f1.otf",
@@ -32,11 +31,11 @@
     "static/media/up.svg": "/static/media/up.09defdf436d4e9178f9ae649185bc84b.svg",
     "static/media/icon5.svg": "/static/media/icon5.ca2dd67b19d35e46553ef3228f0a7855.svg",
     "static/media/charts.svg": "/static/media/charts.c7bf5e267fae99522bcfa0fc87fd18b1.svg",
-    "main.c41c218b.css.map": "/static/css/main.c41c218b.css.map",
-    "main.691dd4e5.js.map": "/static/js/main.691dd4e5.js.map"
+    "main.5fadc5cf.css.map": "/static/css/main.5fadc5cf.css.map",
+    "main.3a3a9ae8.js.map": "/static/js/main.3a3a9ae8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c41c218b.css",
-    "static/js/main.691dd4e5.js"
+    "static/css/main.5fadc5cf.css",
+    "static/js/main.3a3a9ae8.js"
   ]
 }
