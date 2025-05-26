@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.64d8143e.css",
-    "main.js": "/static/js/main.d7f8c262.js",
+    "main.css": "/static/css/main.046aebd8.css",
+    "main.js": "/static/js/main.4bc38d31.js",
     "static/media/Finlandica-ExtraLight.otf": "/static/media/Finlandica-ExtraLight.c5a9336db7768b6c651c.otf",
     "static/media/Finlandica-Regular.otf": "/static/media/Finlandica-Regular.396122aa9ea0e4b96a4b.otf",
     "static/media/Finlandica-Light.otf": "/static/media/Finlandica-Light.281c16d054702094c8f1.otf",
@@ -12,30 +12,30 @@
     "static/media/Finlandica-Medium.otf": "/static/media/Finlandica-Medium.5c62b6e793565ec7a3d6.otf",
     "static/media/Finlandica-Black.otf": "/static/media/Finlandica-Black.4f308b9be001ae8f76db.otf",
     "static/media/hold.svg": "/static/media/hold.7a2b3b6cda3d017a09d1e391a0d18f7b.svg",
-    "static/media/icon3.svg": "/static/media/icon3.f3b9a37a2bfe6d74c7144c21835e593a.svg",
     "static/media/icon4.svg": "/static/media/icon4.30fe1741129b08d6c647e052cc84c7b3.svg",
     "static/media/clouds.svg": "/static/media/clouds.57846830670feb35f1ac.svg",
     "static/media/study.svg": "/static/media/study.3406987b39253c6c79e3449054cf0541.svg",
+    "static/media/icon9.svg": "/static/media/icon9.55f66c49738c80c1ab31ea9869240128.svg",
     "static/media/icon1.svg": "/static/media/icon1.93e05cec46961149b1320fd63966b283.svg",
     "static/media/discord.svg": "/static/media/discord.d6bf9edb1d6a96695ae3c85124d40313.svg",
     "static/media/icon8.svg": "/static/media/icon8.0b7d11cbed8e0aff45df0661ff1bbb25.svg",
     "static/media/icon2.svg": "/static/media/icon2.7a07af985e6438d56c1e50164fe9c0cb.svg",
     "static/media/books.svg": "/static/media/books.a60242e966001f2a0a0aafa3d0e165f1.svg",
     "static/media/policy.svg": "/static/media/policy.d676b49985a21cae7ad7e7747f6735a4.svg",
-    "static/media/icon7.svg": "/static/media/icon7.e7e0f53c92beee3b2b3fe58b145c6c01.svg",
+    "static/media/icon-aip.svg": "/static/media/icon-aip.72cebdee4b99b0e03ee7dd8b21b8c368.svg",
     "index.html": "/index.html",
     "static/media/icon6.svg": "/static/media/icon6.ceee6bb35bf80a3b231c2644bac0ec6e.svg",
-    "static/media/docs.svg": "/static/media/docs.6e0189192c25d4bb151f1fbeb7eb8dd7.svg",
     "static/media/mic.svg": "/static/media/mic.c3713e7569fade3a6c8b8a00a9c07b12.svg",
     "static/media/menu.svg": "/static/media/menu.875afc9d55b4748d721784199798c62f.svg",
     "static/media/up.svg": "/static/media/up.09defdf436d4e9178f9ae649185bc84b.svg",
     "static/media/icon5.svg": "/static/media/icon5.ca2dd67b19d35e46553ef3228f0a7855.svg",
     "static/media/charts.svg": "/static/media/charts.c7bf5e267fae99522bcfa0fc87fd18b1.svg",
-    "main.64d8143e.css.map": "/static/css/main.64d8143e.css.map",
-    "main.d7f8c262.js.map": "/static/js/main.d7f8c262.js.map"
+    "static/media/icon7.svg": "/static/media/icon7.515783be0c0cef5d8f10487dd312d126.svg",
+    "main.046aebd8.css.map": "/static/css/main.046aebd8.css.map",
+    "main.4bc38d31.js.map": "/static/js/main.4bc38d31.js.map"
   },
   "entrypoints": [
-    "static/css/main.64d8143e.css",
-    "static/js/main.d7f8c262.js"
+    "static/css/main.046aebd8.css",
+    "static/js/main.4bc38d31.js"
   ]
 }
