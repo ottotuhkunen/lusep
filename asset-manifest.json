@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.046aebd8.css",
-    "main.js": "/static/js/main.4bc38d31.js",
+    "main.js": "/static/js/main.74d262b3.js",
     "static/media/Finlandica-ExtraLight.otf": "/static/media/Finlandica-ExtraLight.c5a9336db7768b6c651c.otf",
     "static/media/Finlandica-Regular.otf": "/static/media/Finlandica-Regular.396122aa9ea0e4b96a4b.otf",
     "static/media/Finlandica-Light.otf": "/static/media/Finlandica-Light.281c16d054702094c8f1.otf",
@@ -32,10 +32,10 @@
     "static/media/charts.svg": "/static/media/charts.c7bf5e267fae99522bcfa0fc87fd18b1.svg",
     "static/media/icon7.svg": "/static/media/icon7.515783be0c0cef5d8f10487dd312d126.svg",
     "main.046aebd8.css.map": "/static/css/main.046aebd8.css.map",
-    "main.4bc38d31.js.map": "/static/js/main.4bc38d31.js.map"
+    "main.74d262b3.js.map": "/static/js/main.74d262b3.js.map"
   },
   "entrypoints": [
     "static/css/main.046aebd8.css",
-    "static/js/main.4bc38d31.js"
+    "static/js/main.74d262b3.js"
   ]
 }
