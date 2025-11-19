@@ -1,0 +1,535 @@
+[
+  {
+      "ad": "EFHK",
+      "suffix": "E",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "RE",
+      "cs": "HELSINKI RADAR"
+  },{
+      "ad": "EFHK",
+      "suffix": "W",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "RW",
+      "cs": "HELSINKI RADAR"
+  },{
+      "ad": "EFHK",
+      "suffix": "R",
+      "type": "APP",
+      "service": "Arrival final sequencing",
+      "lfunc": "AE",
+      "cs": "HELSINKI ARRIVAL"
+  },{
+      "ad": "EFHK",
+      "suffix": "A",
+      "type": "APP",
+      "service": "Arrival final sequencing (04R/22R)",
+      "lfunc": "AW",
+      "cs": "HELSINKI ARRIVAL"
+  },{
+      "ad": "EFHK",
+      "suffix": "E",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "HKTWE",
+      "cs": "HELSINKI TOWER"
+  },{
+      "ad": "EFHK",
+      "suffix": "W",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "HKTWW",
+      "cs": "HELSINKI TOWER"
+  },{
+      "ad": "EFHK",
+      "suffix": "",
+      "type": "GND",
+      "service": "Ground movement control",
+      "lfunc": "HKGND",
+      "cs": "HELSINKI GROUND"
+  },{
+      "ad": "EFHK",
+      "suffix": "",
+      "type": "DEL",
+      "service": "Ground movement control",
+      "lfunc": "HKCLD",
+      "cs": "HELSINKI GROUND"
+  },{
+      "ad": "EFHK",
+      "suffix": "C",
+      "type": "GND",
+      "service": "De-icing coordinator",
+      "lfunc": "HKICE",
+      "cs": "REMOTE DE-ICING SUPERVISOR"
+  },{
+      "ad": "EFHK",
+      "suffix": "D",
+      "type": "GND",
+      "service": "De-icing operator",
+      "lfunc": "ICEOP",
+      "cs": "DEICING OPERATOR"
+  },{
+      "ad": "EFET",
+      "suffix": "I",
+      "type": "TWR",
+      "service": "AFIS",
+      "lfunc": "ETFIA",
+      "cs": "ENONTEKIÖ INFORMATION"
+  },{
+      "ad": "EFHA",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "HATWA",
+      "cs": "HALLI TOWER"
+  },{
+      "ad": "EFHA",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "HATWA",
+      "cs": "HALLI TOWER"
+  },{
+      "ad": "EFHA",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "HATMA",
+      "cs": "HALLI RADAR"
+  },{
+      "ad": "EFIV",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "IVTWA",
+      "cs": "IVALO TOWER"
+  },{
+      "ad": "EFJO",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "JOTWA",
+      "cs": "JOENSUU TOWER"
+  },{
+      "ad": "EFJY",
+      "suffix": "",
+      "type": "GND",
+      "service": "Ground movement control",
+      "lfunc": "JYGND",
+      "cs": "JYVÄSKYLÄ GROUND"
+  },{
+      "ad": "EFJY",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "JYTWA",
+      "cs": "JYVÄSKYLÄ TOWER"
+  },{
+      "ad": "EFJY",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "JYTWA",
+      "cs": "JYVÄSKYLÄ TOWER"
+  },{
+      "ad": "EFJY",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "JYTMA",
+      "cs": "JYVÄSKYLÄ RADAR"
+  },{
+      "ad": "EFJY",
+      "suffix": "R",
+      "type": "APP",
+      "service": "Arrival final sequencing",
+      "lfunc": "JYARA",
+      "cs": "JYVÄSKYLÄ ARRIVAL"
+  },{
+      "ad": "EFKI",
+      "suffix": "I",
+      "type": "TWR",
+      "service": "AFIS",
+      "lfunc": "KIFIA",
+      "cs": "KAJAANI INFORMATION"
+  },{
+      "ad": "EFKE",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "KETWA",
+      "cs": "KEMI TOWER"
+  },{
+      "ad": "EFKT",
+      "suffix": "",
+      "type": "DEL",
+      "service": "Clearance delivery",
+      "lfunc": "KTCLD",
+      "cs": "KITTILÄ DELIVERY"
+  },{
+      "ad": "EFKT",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "KTTWA",
+      "cs": "KITTILÄ TOWER"
+  },{
+      "ad": "EFKT",
+      "suffix": "I",
+      "type": "TWR",
+      "service": "AFIS",
+      "lfunc": "KTFIA",
+      "cs": "KITTILÄ INFORMATION"
+  },{
+      "ad": "EFKK",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "KKTWA",
+      "cs": "KRUUNU TOWER"
+  },{
+      "ad": "EFKU",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "KUTWA",
+      "cs": "KUOPIO TOWER"
+  },{
+      "ad": "EFKU",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "KUTWA",
+      "cs": "KUOPIO TOWER"
+  },{
+      "ad": "EFKU",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "KUTMA",
+      "cs": "KUOPIO RADAR"
+  },{
+      "ad": "EFKU",
+      "suffix": "R",
+      "type": "APP",
+      "service": "Arrival final sequencing",
+      "lfunc": "KUARA",
+      "cs": "KUOPIO ARRIVAL"
+  },{
+      "ad": "EFKS",
+      "suffix": "I",
+      "type": "TWR",
+      "service": "AFIS",
+      "lfunc": "KSFIA",
+      "cs": "KUUSAMO INFORMATION"
+  },{
+      "ad": "EFKS",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "KSTWA",
+      "cs": "KUUSAMO TOWER"
+  },{
+      "ad": "EFLP",
+      "suffix": "P",
+      "type": "TWR",
+      "service": "Combined TWR+APP PROC",
+      "lfunc": "LPTWA",
+      "cs": "LAPPEENRANTA TOWER"
+  },{
+      "ad": "EFMA",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "MATWA",
+      "cs": "MARIEHAMN TOWER"
+  },{
+      "ad": "EFMI",
+      "suffix": "I",
+      "type": "TWR",
+      "service": "AFIS",
+      "lfunc": "MIFIA",
+      "cs": "MIKKELI INFORMATION"
+  },{
+      "ad": "EFOU",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "OUTWA",
+      "cs": "OULU TOWER"
+  },{
+      "ad": "EFOU",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "OUTWA",
+      "cs": "OULU TOWER"
+  },{
+      "ad": "EFOU",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "OUTMA",
+      "cs": "OULU RADAR"
+  },{
+      "ad": "EFPO",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "POTWA",
+      "cs": "PORI TOWER"
+  },{
+      "ad": "EFPO",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "POTWA",
+      "cs": "PORI TOWER"
+  },{
+      "ad": "EFPO",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "POTMA",
+      "cs": "PORI RADAR"
+  },{
+      "ad": "EFRO",
+      "suffix": "",
+      "type": "DEL",
+      "service": "Clearance delivery",
+      "lfunc": "ROCLD",
+      "cs": "ROVANIEMI DELIVERY"
+  },{
+      "ad": "EFRO",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "ROTWA",
+      "cs": "ROVANIEMI TOWER"
+  },{
+      "ad": "EFRO",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "ROTWA",
+      "cs": "ROVANIEMI TOWER"
+  },{
+      "ad": "EFRO",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "ROTMA",
+      "cs": "ROVANIEMI RADAR"
+  },{
+      "ad": "EFRO",
+      "suffix": "R",
+      "type": "APP",
+      "service": "Arrival final sequencing",
+      "lfunc": "ROARA",
+      "cs": "ROVANIEMI ARRIVAL"
+  },{
+      "ad": "EFSA",
+      "suffix": "I",
+      "type": "TWR",
+      "service": "AFIS",
+      "lfunc": "SAFIA",
+      "cs": "SAVONLINNA INFORMATION"
+  },{
+      "ad": "EFSI",
+      "suffix": "I",
+      "type": "TWR",
+      "service": "AFIS",
+      "lfunc": "SIFIA",
+      "cs": "SEINÄJOKI INFORMATION"
+  },{
+      "ad": "EFTP",
+      "suffix": "",
+      "type": "GND",
+      "service": "Ground movement control",
+      "lfunc": "TPGND",
+      "cs": "PIRKKALA GROUND"
+  },{
+      "ad": "EFTP",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "TPTWA",
+      "cs": "PIRKKALA TOWER"
+  },{
+      "ad": "EFTP",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "TPTWA",
+      "cs": "PIRKKALA TOWER"
+  },{
+      "ad": "EFTP",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "TPTMA",
+      "cs": "PIRKKALA RADAR"
+  },{
+      "ad": "EFTP",
+      "suffix": "R",
+      "type": "APP",
+      "service": "Arrival final sequencing",
+      "lfunc": "TPARA",
+      "cs": "PIRKKALA ARRIVAL"
+  },{
+      "ad": "EFTU",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "TUTWA",
+      "cs": "TURKU TOWER"
+  },{
+      "ad": "EFTU",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "TUTWA",
+      "cs": "TURKU TOWER"
+  },{
+      "ad": "EFTU",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "TUTMA",
+      "cs": "TURKU RADAR"
+  },{
+      "ad": "EFUT",
+      "suffix": "P",
+      "type": "TWR",
+      "service": "Combined TWR+APP PROC",
+      "lfunc": "UTTWA",
+      "cs": "UTTI TOWER"
+  },{
+      "ad": "EFVA",
+      "suffix": "",
+      "type": "TWR",
+      "service": "Aerodrome control service",
+      "lfunc": "VATWA",
+      "cs": "VAASA TOWER"
+  },{
+      "ad": "EFVA",
+      "suffix": "R",
+      "type": "TWR",
+      "service": "Combined TWR+APP SSR",
+      "lfunc": "VATWA",
+      "cs": "VAASA TOWER"
+  },{
+      "ad": "EFVA",
+      "suffix": "",
+      "type": "APP",
+      "service": "Approach control service",
+      "lfunc": "VATMA",
+      "cs": "VAASA RADAR"
+  },{
+      "ad": "EFIN",
+      "suffix": "D",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "D",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "A",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "A",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "B",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "B",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "C",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "C",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "E",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "E",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "F",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "F",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "G",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "G",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "H",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "H",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "J",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "J",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "K",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "K",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "L",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "L",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "M",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "M",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "N",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "N",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "V",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "V",
+      "cs": "HELSINKI CONTROL"
+  },{
+      "ad": "EFIN",
+      "suffix": "",
+      "type": "CTR",
+      "service": "Area control service",
+      "lfunc": "D",
+      "cs": "HELSINKI CONTROL"
+  }
+]

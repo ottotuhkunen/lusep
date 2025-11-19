@@ -1,0 +1,71 @@
+  @keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  .TopPage {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+    background: linear-gradient(90deg, #00154b, #002ea2, #0038c5);
+    background-size: 200% 200%;
+    animation: gradientAnimation 10s infinite linear;
+  }
+
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  .content p {
+    margin: 0;
+    font-size: 48pt;
+    font-weight: bold;
+    color: white;
+    transition: color 0.3s ease;
+    margin-right: 20px;
+    text-align: right;
+  }
+  
+  .finland-map {
+    width: 400px;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
+
+  .description {
+    font-size: 12pt !important;
+    font-weight: 400 !important;
+    padding-top: 20px;
+  }
+
+  @media (max-width: 750px) {
+    .finland-map {
+      opacity: 18%;
+      position: absolute;
+      height: auto;
+      width: 90vw;
+      left: 0;
+      z-index: 1;
+      pointer-events: none;
+    }
+    .content p {
+      font-size: 40pt;
+    }
+  }
+
+  .TopPage-arrow {
+    margin-top: 50px;
+    cursor: pointer;
+    z-index: 1000 !important;
+  }
+
+  .TopPage-arrow svg:hover path {
+    fill: #00aaff;
+  }
